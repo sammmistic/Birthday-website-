@@ -6,7 +6,8 @@
 
 body {
     font-family: Arial, sans-serif;
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
     color: white;
     background: #10051f;
 }
